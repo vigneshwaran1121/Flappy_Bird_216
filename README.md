@@ -81,14 +81,6 @@ Controls
 
 ---
 
-ScreenShots
-
-IMG_20260220_10501370.jpeg
-IMG_20260220_10504432.jpeg
-
-
----
-
 Future Improvements
 
 - Sound effects
