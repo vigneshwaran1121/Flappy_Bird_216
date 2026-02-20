@@ -81,7 +81,7 @@ Controls
 
 ---
 
-Screenshots
+ScreenShots
 
 
 
